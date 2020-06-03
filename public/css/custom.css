@@ -1,0 +1,54 @@
+#welcomepage{
+    position: relative;
+    height: 1000px;
+}
+
+/* h2#title{
+    position: absolute;
+    color:green;
+    font-weight: bold;
+    font-size: 55px;
+    font-family: "Sawarabi Gothic";
+    top: 25%;
+    left: 50%;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+    margin:0;
+    padding:0;
+} */
+
+a#welcomebutton{
+    position: absolute;
+  font-size: 40px;
+  font-family: 'Kaushan Script', cursive;
+  top: 50%;
+  left: 65%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  color: white;
+  background-color: #5CB984;
+  width: 25%;
+  line-height: 60px;
+}
+
+a#welcomebutton2{
+    position: absolute;
+  font-size: 40px;
+  font-family: 'Kaushan Script', cursive;
+  top: 50%;
+  left: 35%;
+  -ms-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+  margin:0;
+  padding:0;
+  color: #5CB984;
+  background-color: white;
+  width: 25%;
+  line-height: 60px;
+}
+
